@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tdfofie/Casablanca.git/static/css/main.1cdbf67e.css",
+    "main.js": "/tdfofie/Casablanca.git/static/js/main.62659d92.js",
+    "static/js/453.fc054035.chunk.js": "/tdfofie/Casablanca.git/static/js/453.fc054035.chunk.js",
+    "index.html": "/tdfofie/Casablanca.git/index.html",
+    "main.1cdbf67e.css.map": "/tdfofie/Casablanca.git/static/css/main.1cdbf67e.css.map",
+    "main.62659d92.js.map": "/tdfofie/Casablanca.git/static/js/main.62659d92.js.map",
+    "453.fc054035.chunk.js.map": "/tdfofie/Casablanca.git/static/js/453.fc054035.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cdbf67e.css",
+    "static/js/main.62659d92.js"
+  ]
+}
